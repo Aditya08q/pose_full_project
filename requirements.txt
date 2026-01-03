@@ -1,9 +1,5 @@
 streamlit
 
-# Core ML
-tensorflow==2.15.0
-keras==2.15.0
-
 # Numerical & data
 numpy==1.26.4
 pandas==2.2.2
