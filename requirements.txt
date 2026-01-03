@@ -5,13 +5,14 @@ numpy==1.26.4
 pandas==2.2.2
 
 # CV / Image
-opencv-python-headless
-pillow
+opencv-python-headless==4.9.0.80
+pillow==10.4.0
 
 # Visualization
-matplotlib
+matplotlib==3.9.2
 
 # Utils
 protobuf<5
 requests
 rich
+
