@@ -6,6 +6,10 @@ __pycache__/
 *.pyd
 .env
 .DS_Store
+
+# Logs & temporary files
 *.log
 *.mp4
+tmp_uploaded.mp4
+uploaded_video.mp4
 
